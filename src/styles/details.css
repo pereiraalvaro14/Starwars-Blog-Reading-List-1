@@ -1,0 +1,29 @@
+.detailsContainer{
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+    width: 70%;
+    margin: auto;
+    margin-top: 40px;
+}
+
+.detailsContainer .top{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
+
+.detailsContainer .bottom{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
+
+.description{
+    width: 100%;
+    text-align: center;
+}
+
+.bottom > div{
+    flex-basis: 100%;
+}

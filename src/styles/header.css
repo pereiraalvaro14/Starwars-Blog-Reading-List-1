@@ -1,0 +1,14 @@
+.header{
+    width: 80%;
+}
+
+.favorites{
+    text-align: right;
+    margin: 20px;
+    float: right;
+}
+
+.logo{
+    margin: 20px;
+    float: left;
+}
